@@ -1,0 +1,125 @@
+
+.myimg {
+    vertical-align: middle;
+    top: 0;
+    bottom: 0;
+    
+    height: 100%;
+   
+    width: 100%;
+    border-radius: 100px;
+
+}
+.second-part{
+
+    width: 550px;
+    height: 500px;
+
+}
+.product-detail-content {
+    background-color: #e6eff0;
+
+    
+    height: 100%;
+    width: 100%;
+   
+    padding: 25px;
+}
+
+.p-name {
+    color: black;
+    font-size: 40px;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 2px 6px #778081;
+}
+
+.price {
+
+    font-size: 45px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+
+
+
+
+
+.p-qty input#number {
+    text-align: center;
+    border: none;
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    margin: 0px;
+    width: 50px;
+    height: 35px;
+    font-size: 24px;
+    border-radius: 20px;
+    box-sizing: border-box;
+
+}
+
+.p-add {
+
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+
+._p-add-cart {
+    margin-left: 0px;
+    margin-bottom: 15px;
+}
+
+.p-list {
+    margin-bottom: 10px;
+}
+
+.p-features>span {
+    display: block;
+    font-size: 26px;
+    color: #000;
+    font-weight: 400;
+}
+
+.button {
+    margin-top: 60px;
+}
+
+.buy:hover {
+    background-color: #eed5b8;
+}
+
+.cart:hover {
+    background-color: #eed5b8;
+
+}
+
+.text {
+
+    font-size: 19px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.buy {
+    color: #000;
+    background-color: #e29b49;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 10px;
+    border-radius: 20px;
+}
+
+.cart {
+    color: #000;
+    background-color: #e29b49;
+    padding: 15px;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}

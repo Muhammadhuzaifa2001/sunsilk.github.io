@@ -1,0 +1,24 @@
+form-item{
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.form-item button{
+    border: transparent;
+    color: purple;
+    background: #ffffff;
+    padding: 10px 25px;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.form-item button:hover{
+   opacity: 0.8;
+}
+#contact-form input{
+    padding: 8px;
+    border: transparent;
+    border-radius: 10px;
+    justify-content: right;
+    width: auto;
+}

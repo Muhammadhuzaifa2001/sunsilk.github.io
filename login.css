@@ -1,0 +1,22 @@
+.loginbox{
+    border:1px solid purple;
+    border-radius: 10px;
+    width:30%;
+    padding: 50px;
+    text-align: center;
+    align-items: center;
+    margin-left:35%;
+    background-color: purple;
+}
+
+.login-input{
+    font-weight: bold;
+    color:aliceblue;
+}
+
+.login-button{
+    font-weight: bold;
+    color:black;
+    background-color:whitesmoke;
+    border-radius: 15px;
+}
